@@ -1,0 +1,66 @@
+﻿@page "{id:int}"
+@model WebLabs.Areas.Admin.Pages.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Tehnika</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Tehnika.TehnikaId" />
+            <div class="form-group">
+                @if (!string.IsNullOrEmpty(Model.Tehnika.Images))
+                {
+                    <img src="~/images/@Model.Tehnika.Images" alt="NoSuchFile" width="150" />
+                }
+                else
+                {
+                    <h4>Файл изображения не задан</h4>
+                }
+                <div class="custom-file mt-3">
+                    <input type="file" class="custom-file-input" name="image" id="customFile" />
+                    <label class="custom-file-label" for="customFile">Выберите файл изображения</label>
+                </div>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tehnika.Name" class="control-label"></label>
+                <input asp-for="Tehnika.Name" class="form-control" />
+                <span asp-validation-for="Tehnika.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tehnika.Cost" class="control-label"></label>
+                <input asp-for="Tehnika.Cost" class="form-control" />
+                <span asp-validation-for="Tehnika.Cost" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tehnika.ArendaDays" class="control-label"></label>
+                <input asp-for="Tehnika.ArendaDays" class="form-control" />
+                <span asp-validation-for="Tehnika.ArendaDays" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tehnika.Images" class="control-label"></label>
+                <input asp-for="Tehnika.Images" class="form-control" />
+                <span asp-validation-for="Tehnika.Images" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tehnika.TehnikaGroupId" class="control-label"></label>
+                <select asp-for="Tehnika.TehnikaGroupId" class="form-control" asp-items="ViewBag.TehnikaGroupId"></select>
+                <span asp-validation-for="Tehnika.TehnikaGroupId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+

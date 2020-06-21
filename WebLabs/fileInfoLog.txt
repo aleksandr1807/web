@@ -1,0 +1,157 @@
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:04:57: url: / returns 200
+29.04.2020-14:04:57: url: /Catalog/Page_4 returns 200
+29.04.2020-14:04:57: url: /js/site.js?v=eM9ibE9YpdD-JZpdPqxgih5aMbN3u_4mJQsCHSAdNJM returns 200
+29.04.2020-14:04:57: url: /css/site.css returns 200
+29.04.2020-14:04:57: url: /lib/jquery/dist/jquery.min.js returns 200
+29.04.2020-14:04:57: url: /lib/font-awesome/css/font-awesome.min.css returns 200
+29.04.2020-14:04:57: url: /lib/bootstrap/dist/js/bootstrap.bundle.min.js returns 200
+29.04.2020-14:04:57: url: /lib/bootstrap/dist/css/bootstrap.min.css returns 200
+29.04.2020-14:04:57: url: /lib/font-awesome/css/font-awesome.css returns 200
+29.04.2020-14:04:57: url: /lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 returns 200
+29.04.2020-14:04:57: url: /Image/GetAvatar returns 200
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:05:45: url: / returns 200
+29.04.2020-14:05:45: url: / returns 200
+29.04.2020-14:05:45: url: /css/site.css returns 200
+29.04.2020-14:05:45: url: /css/site.css returns 200
+29.04.2020-14:05:45: url: /js/site.js?v=eM9ibE9YpdD-JZpdPqxgih5aMbN3u_4mJQsCHSAdNJM returns 200
+29.04.2020-14:05:45: url: /lib/font-awesome/css/font-awesome.min.css returns 200
+29.04.2020-14:05:45: url: /lib/font-awesome/css/font-awesome.min.css returns 200
+29.04.2020-14:05:45: url: /lib/bootstrap/dist/css/bootstrap.min.css returns 200
+29.04.2020-14:05:45: url: /lib/bootstrap/dist/js/bootstrap.bundle.min.js returns 200
+29.04.2020-14:05:46: url: /lib/jquery/dist/jquery.min.js returns 200
+29.04.2020-14:05:45: url: /lib/font-awesome/css/font-awesome.css returns 200
+29.04.2020-14:05:46: url: /lib/bootstrap/dist/js/bootstrap.bundle.min.js returns 200
+29.04.2020-14:05:45: url: /lib/font-awesome/css/font-awesome.css returns 200
+29.04.2020-14:05:45: url: /lib/jquery/dist/jquery.min.js returns 200
+29.04.2020-14:05:45: url: /lib/bootstrap/dist/css/bootstrap.min.css returns 200
+29.04.2020-14:05:46: url: /js/site.js?v=eM9ibE9YpdD-JZpdPqxgih5aMbN3u_4mJQsCHSAdNJM returns 200
+29.04.2020-14:05:46: url: /lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 returns 200
+29.04.2020-14:05:46: url: /lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 returns 200
+29.04.2020-14:05:45: url: /Image/GetAvatar returns 200
+29.04.2020-14:05:46: url: /Image/GetAvatar returns 200
+29.04.2020-14:06:02: url: /api/Tehnika returns 404
+29.04.2020-14:06:09: url: /api/Tehnikas returns 200
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:06:23: url: / returns 200
+29.04.2020-14:06:23: url: /api/Tehnikas returns 200
+29.04.2020-14:06:27: url: /api/Tehnikas/3 returns 200
+29.04.2020-14:06:38: url: /api/Tehnikas/31 returns 404
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:08:52: url: / returns 200
+29.04.2020-14:08:52: url: /api/Tehnikas/31 returns 404
+29.04.2020-14:09:11: url: /api/Tehnikas?group=3 returns 200
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:10:37: url: / returns 200
+29.04.2020-14:10:37: url: /js/site.js?v=eM9ibE9YpdD-JZpdPqxgih5aMbN3u_4mJQsCHSAdNJM returns 200
+29.04.2020-14:10:37: url: /css/site.css returns 200
+29.04.2020-14:10:37: url: /lib/font-awesome/css/font-awesome.min.css returns 200
+29.04.2020-14:10:37: url: /lib/jquery/dist/jquery.min.js returns 200
+29.04.2020-14:10:37: url: /lib/bootstrap/dist/js/bootstrap.bundle.min.js returns 200
+29.04.2020-14:10:37: url: /lib/font-awesome/css/font-awesome.css returns 200
+29.04.2020-14:10:37: url: /lib/bootstrap/dist/css/bootstrap.min.css returns 200
+29.04.2020-14:10:37: url: /api/Tehnikas?group=3 returns 200
+29.04.2020-14:10:37: url: /Image/GetAvatar returns 200
+29.04.2020-14:10:37: url: /lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 returns 200
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:37:06: url: /js/site.js?v=vphx9aObYpavdkAyjwSBu3Lyb7NVeAvChBGEoe2dlrk returns 304
+29.04.2020-14:37:06: url: /Tehniks/GetTehniks returns 404
+29.04.2020-14:37:08: url: /js/site.js?v=vphx9aObYpavdkAyjwSBu3Lyb7NVeAvChBGEoe2dlrk returns 304
+29.04.2020-14:37:11: url: /js/site.js?v=vphx9aObYpavdkAyjwSBu3Lyb7NVeAvChBGEoe2dlrk returns 304
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:37:38: url: /js/site.js?v=0NoX1JSpQ3biDuTgCBskXTKdXcVj1fWvznbDieqM_H0 returns 304
+29.04.2020-14:37:39: url: /js/site.js?v=0NoX1JSpQ3biDuTgCBskXTKdXcVj1fWvznbDieqM_H0 returns 304
+29.04.2020-14:37:40: url: /js/site.js?v=0NoX1JSpQ3biDuTgCBskXTKdXcVj1fWvznbDieqM_H0 returns 304
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:38:13: url: /js/site.js?v=BtBpXXPYGYikZhfe-3dfSwesLPhOkM-hyYoKrdf4PWo returns 304
+29.04.2020-14:38:18: url: /js/site.js?v=BtBpXXPYGYikZhfe-3dfSwesLPhOkM-hyYoKrdf4PWo returns 304
+29.04.2020-14:38:20: url: /js/site.js?v=BtBpXXPYGYikZhfe-3dfSwesLPhOkM-hyYoKrdf4PWo returns 304
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:38:36: url: /js/site.js?v=H2cNKACZ3wgCRkC1NwEst4g8BP2RBjQTKd26KtHl0m4 returns 304
+29.04.2020-14:38:41: url: /js/site.js?v=H2cNKACZ3wgCRkC1NwEst4g8BP2RBjQTKd26KtHl0m4 returns 304
+29.04.2020-14:38:48: url: /js/site.js?v=H2cNKACZ3wgCRkC1NwEst4g8BP2RBjQTKd26KtHl0m4 returns 304
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:41:15: url: /Admin/Edit/1 returns 302
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:51:14: url: /Tehniks/GetTehniks returns 404
+29.04.2020-14:51:16: url: /Tehniks/GetTehniks returns 404
+29.04.2020-14:51:19: url: /Tehniks/GetTehniks returns 404
+29.04.2020-14:51:20: url: /Tehniks/GetTehniks returns 404
+29.04.2020-14:51:22: url: /Tehniks/GetTehniks returns 404
+29.04.2020-14:51:23: url: /Tehniks/GetTehniks returns 404
+29.04.2020-14:51:24: url: /Tehniks/GetTehniks returns 404
+29.04.2020-14:51:25: url: /Tehniks/GetTehniks returns 404
+29.04.2020-14:51:26: url: /Tehniks/GetTehniks returns 404
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:52:21: url: /Tehniks/GetTehniks returns 404
+29.04.2020-14:52:22: url: /Tehniks/GetTehniks returns 404
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:53:01: url: /ApiDemo returns 404
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:55:04: url: /Cart/Add/4?returnUrl=%2FCatalog%2FPage_2 returns 302
+29.04.2020-14:55:12: url: /Cart/Add/1?returnUrl=%2FCatalog returns 302
+29.04.2020-14:55:17: url: /Cart/Add/1?returnUrl=%2FCatalog returns 302
+29.04.2020-14:55:21: url: /Cart/delete/1 returns 302
+29.04.2020-14:55:21: url: /Cart/delete/4 returns 302
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\работы\веб\WebLabs_sol\WebLabs
